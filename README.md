@@ -5,7 +5,7 @@ S3_BUCKET_NAME:behsa-paris
 
 S3_KEY_FILE:divan_hafez.json
 
-TELEGRAM_TOKEN:<your telegram bot token>
+TELEGRAM_TOKEN:<your_telegram_bot_token>
 
 
 Set a Webhook
